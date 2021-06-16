@@ -1,0 +1,23 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DorotheeLagetChappert/wilders.git"
+  },
+  "author": "Dorothée Laget-Chappert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DorotheeLagetChappert/wilders/issues"
+  },
+  "homepage": "https://github.com/DorotheeLagetChappert/wilders#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
